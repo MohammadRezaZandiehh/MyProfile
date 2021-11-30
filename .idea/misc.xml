@@ -10,6 +10,9 @@
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_bottom_nav_folder.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_bottom_nav_groups.xml" value="0.16296296296296298" />
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_bottom_nav_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_iconly_bulk_bookmark__2_.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_iconly_bulk_filter.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_iconly_bulk_info_circle__1_.xml" value="0.13148148148148148" />
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_info.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_person.xml" value="0.1287037037037037" />
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_reorder.xml" value="0.19583333333333333" />
@@ -17,7 +20,9 @@
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/drawable/ic_update.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/layout/activity_test.xml" value="0.16621376811594202" />
-        <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/layout/test_activity.xml" value="0.1" />
+        <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/layout/test.xml" value="0.1796875" />
+        <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/layout/test_activity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/mohammad/AndroidStudioProjects/MyProfile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14351851851851852" />
       </map>
     </option>
   </component>
